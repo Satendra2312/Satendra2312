@@ -15,7 +15,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,xampp"  alt="Technical Skills"/>
 </p>
-
 ---
 
 ## 💼 Professional Experience
@@ -46,11 +45,4 @@
 ## 🏆 Certificates
 
 * Certified Full Stack Developer - Training at Infoseek
-    <div class="skill-name">React</div>
-    <div class="skill-bar">
-      <div class="skill-bar-fill" style="width: 90%;"></div>
-    </div>
-    ```
-
-    * **Explanation**: This code creates animated progress bars for skills. You can customize the percentage width in the `to` part of the `@keyframes fillSkill` and change the color.
-    * **Integration**: Add the `<style>` and the `div` structures to the skills section. Adjust the `width` in the style attribute of the inner `div` (`.skill-bar-fill`) to reflect the skill level.
+   
