@@ -13,7 +13,7 @@
 ## 🛠️ Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,xampp,jquery"  alt="Technical Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,xampp"  alt="Technical Skills"/>
 </p>
 
 ---
