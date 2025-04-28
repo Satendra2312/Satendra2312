@@ -53,7 +53,7 @@ I'm a passionate **Full Stack Web Developer** with expertise in building scalabl
 
 ## 🎓 Education
 
-**Bachelor of Science in Mathematics**  
+**Bachelor of Science in Mathematics**
 Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 ---
@@ -66,29 +66,21 @@ Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 ## 🌟 Featured Projects
 
-### [E-Commerce Platform](https://github.com/Satendra2312/ecommerce-platform)
-- **Description**: A full-stack e-commerce platform with product listings, cart functionality, and secure payment integration.
-- **Tech Stack**: React, Node.js, Express, MongoDB, Tailwind CSS
-- **Features**: User authentication, product search/filter, Stripe payment gateway, responsive design.
-- **Demo**: [Live Demo Link] (replace with actual link if available)
-
-### [Real-Time Chat Application](https://github.com/Satendra2312/chat-app)
-- **Description**: A real-time chat application supporting one-on-one and group messaging with real-time notifications.
-- **Tech Stack**: Node.js, Express, Socket.io, MySQL, React, Bootstrap
-- **Features**: Real-time messaging, group chats, typing indicators, push notifications.
-- **Demo**: [Live Demo Link] (replace with actual link if available)
-
-### [Task Management App](https://github.com/Satendra2312/task-manager)
-- **Description**: A responsive task management application to organize and track personal or team tasks.
-- **Tech Stack**: PHP, Laravel, MySQL, JavaScript, Tailwind CSS
-- **Features**: Task creation/editing, due date reminders, user roles, drag-and-drop interface.
-- **Demo**: [Live Demo Link] (replace with actual link if available)
-
 ### [Portfolio Website](https://github.com/Satendra2312/portfolio)
 - **Description**: A personal portfolio website showcasing projects, skills, and professional experience.
 - **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Features**: Responsive design, contact form, project gallery, smooth animations.
 - **Demo**: [satendra.inceptionspark.com](https://satendra.inceptionspark.com)
+
+### [Test Your Product Platform](https://github.com/Satendra2312/test-your-product)
+- **Description**: A fully responsive platform with over 30 pages for showcasing and testing products. Includes admin and super admin dashboards for comprehensive site management.
+- **Tech Stack**: HTML, CSS, JavaScript, PHP, jQuery, MySQL
+- **Features**: Admin and Super Admin dashboards, blog management, product and category management, dynamic code injection for SEO, W3C compliance, accessible design.
+
+### [Digisensy Digital Marketing Company](https://github.com/Satendra2312/digisensy-marketing)
+- **Description**: A comprehensive digital marketing platform for showcasing services and engaging with clients.
+- **Tech Stack**: WordPress, PHP, React.js, MySQL, Razorpay
+- **Features**: 200+ SEO-optimized responsive pages, WhatsApp Business API integration, Razorpay payment gateway, dynamic user and admin dashboards.
 
 <p align="center">
   <a href="https://github.com/Satendra2312?tab=repositories"><img src="https://img.shields.io/badge/Explore_More_Projects-Explore_Now-blue?style=for-the-badge&logo=github"></a>
@@ -107,10 +99,4 @@ Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Satendra2312&color=green&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtdU65VRL1rTjy/giphy.gif" width="200" alt="Coding GIF" />
 </p>
