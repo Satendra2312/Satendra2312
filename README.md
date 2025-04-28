@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Satendra+Kumar!;Full+Stack+Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Satendra+Kumar!;Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,12 +72,12 @@ Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 - **Features**: Responsive design, contact form, project gallery, smooth animations.
 - **Demo**: [satendra.inceptionspark.com](https://satendra.inceptionspark.com)
 
-### [Test Your Product Platform](https://github.com/Satendra2312/test-your-product)
+### [Test Your Product ](https://testyourproduct.in/)
 - **Description**: A fully responsive platform with over 30 pages for showcasing and testing products. Includes admin and super admin dashboards for comprehensive site management.
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, jQuery, MySQL
 - **Features**: Admin and Super Admin dashboards, blog management, product and category management, dynamic code injection for SEO, W3C compliance, accessible design.
 
-### [Digisensy Digital Marketing Company](https://github.com/Satendra2312/digisensy-marketing)
+### [Digisensy Digital Marketing Company](https://www.digisensy.com/)
 - **Description**: A comprehensive digital marketing platform for showcasing services and engaging with clients.
 - **Tech Stack**: WordPress, PHP, React.js, MySQL, Razorpay
 - **Features**: 200+ SEO-optimized responsive pages, WhatsApp Business API integration, Razorpay payment gateway, dynamic user and admin dashboards.
