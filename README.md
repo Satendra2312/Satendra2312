@@ -16,7 +16,7 @@
 
 I'm a passionate **Full Stack Web Developer** with expertise in building scalable, high-performance web applications. With a strong foundation in both front-end and back-end technologies, I love turning ideas into reality through clean code and innovative solutions.
 
-- 🌟 **Currently**: Working as a Web Developer at Gencosys, delivering dynamic and responsive web applications.
+- 🌟 **Currently**: Working as a Web Developer at **Enginify**, delivering cutting-edge web solutions.
 - 💡 **Motto**: Code with purpose, build with passion.
 - 📍 **Based in**: Lucknow, India
 
@@ -30,14 +30,20 @@ I'm a passionate **Full Stack Web Developer** with expertise in building scalabl
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,xampp" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,laravel,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,xampp" alt="Technical Skills" />
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-### Web Developer | Gencosys | 2023 - Present
+### Web Developer | Enginify | May 19, 2025 - Present
+- Developing innovative and scalable web applications using modern front-end and back-end technologies.
+- Collaborating with cross-functional teams to deliver high-quality, user-focused solutions.
+- Implementing responsive designs and optimizing performance for seamless user experiences.
+- Leveraging **Git** and **GitHub** for version control and streamlined development workflows.
+
+### Web Developer | Gencosys | July 10, 2023 - May 7, 2025
 - Spearheaded the development of dynamic web applications using **HTML, CSS, JavaScript, jQuery, React, Bootstrap, and Tailwind**, achieving fast load times and seamless user experiences.
 - Engineered server-side logic with **PHP** and **Node.js**, ensuring reliability, performance, and scalability.
 - Designed and optimized secure database solutions with **MySQL** and **MongoDB**.
@@ -53,7 +59,7 @@ I'm a passionate **Full Stack Web Developer** with expertise in building scalabl
 
 ## 🎓 Education
 
-**Bachelor of Science in Mathematics**
+**Bachelor of Science in Mathematics**  
 Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 ---
@@ -66,13 +72,19 @@ Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 ## 🌟 Featured Projects
 
+### Fintech Website
+- **Description**: A robust fintech platform enabling users to pay bills, recharge mobile and utility services, purchase gift cards, and manage financial transactions with a secure and user-friendly interface.
+- **Tech Stack**: HTML, CSS, JavaScript, Laravel, MySQL, Bill Avenue , Android APIs
+- **Features**: Secure payment gateway integration with Razorpay, responsive UI, user and admin dashboards, transaction history, multi-currency support, and SEO optimization.
+- **Status**: In development
+
 ### [Portfolio Website](https://github.com/Satendra2312/portfolio)
 - **Description**: A personal portfolio website showcasing projects, skills, and professional experience.
 - **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Features**: Responsive design, contact form, project gallery, smooth animations.
 - **Demo**: [satendra.inceptionspark.com](https://satendra.inceptionspark.com)
 
-### [Test Your Product ](https://testyourproduct.in/)
+### [Test Your Product](https://testyourproduct.in/)
 - **Description**: A fully responsive platform with over 30 pages for showcasing and testing products. Includes admin and super admin dashboards for comprehensive site management.
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, jQuery, MySQL
 - **Features**: Admin and Super Admin dashboards, blog management, product and category management, dynamic code injection for SEO, W3C compliance, accessible design.
@@ -92,11 +104,4 @@ Firoze Gandhi College, Raebareli | CSJM University, Kanpur | 2018 - 2021
 
 <p align="center">
   <a href="https://satendra.inceptionspark.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=social"></a>
-  <a href="https://github.com/Satendra2312"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github"></a>
-  <a href="mailto:sk.gautam9673@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=social&logo=gmail"></a>
-  <a href="https://wa.me/918808662487"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=social&logo=whatsapp"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satendra2312&color=green&style=flat-square" alt="Profile Views" />
-</p>
+  <a href="https://github.com/Satendra2312"><img src="https://img.shields Ascending
